@@ -15,4 +15,6 @@ Kuvia:
 
 <img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131830_Weather%20Live.jpg" width="360" height="780">    <img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131952_Weather%20Live.jpg" width="360" height="780">
 
-<img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131857_Weather%20Live.jpg" width="360" height="780">    Delete:<img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131912_Weather%20Live.jpg" width="360" height="780">
+Tallennetut paikat ja niiden poisto
+
+<img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131857_Weather%20Live.jpg" width="360" height="780">    <img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131912_Weather%20Live.jpg" width="360" height="780">
