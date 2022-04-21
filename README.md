@@ -6,4 +6,13 @@ Aplikaatio, jossa voidaan hakea säätiedot sekä sijainnin että myös perintei
 Suosikkipaikat voidaan tallentaa myös itselle, joten se helpottaa säätietojen hakemista entisestään.
 
 
-Toteutuksessa on käytetty React Nativea sekä Expo.dev kirjastoa, säätiedot haetaan täältä: https://openweathermap.org/
+Toteutuksessa on käytetty React Nativea sekä Expoa, säätiedot haetaan täältä: https://openweathermap.org/
+
+
+Kuvia:
+
+1 --
+
+2--
+
+3--
