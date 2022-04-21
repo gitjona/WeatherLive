@@ -1,4 +1,4 @@
-<h1>WeatherLive</h1>
+<h1>Weather Live</h1>
 
 Expo.io: https://expo.dev/@jonao/weatherlive
 
@@ -11,7 +11,7 @@ Toteutuksessa on käytetty React Nativea sekä Expoa, säätiedot haetaan tääl
 
 
 
-Kuvia:
+<b>Kuvia:</b>
 
 <img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131830_Weather%20Live.jpg" width="360" height="780">    <img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131952_Weather%20Live.jpg" width="360" height="780">
 
