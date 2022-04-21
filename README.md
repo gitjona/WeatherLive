@@ -11,7 +11,7 @@ Toteutuksessa on käytetty React Nativea sekä Expoa, säätiedot haetaan tääl
 
 Kuvia:
 
-1 --
+<img src="https://github.com/gitjona/WeatherLive/blob/main/screenshots/Screenshot_20220421-131830_Weather%20Live.jpg">
 
 2--
 
