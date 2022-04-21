@@ -1,4 +1,4 @@
-**WeatherLive**
+<h1>WeatherLive</h1>
 
 Expo.io: https://expo.dev/@jonao/weatherlive
 
