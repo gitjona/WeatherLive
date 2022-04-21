@@ -22,7 +22,7 @@ export default function HomeScreen({ route, navigation })
 
   const [location, setLocation]     = React.useState(null);
 
-  const apiKey = "deb029c8ee1a0536a45f9c8cee5a631e";
+  const apiKey = "-- APIKEY --";
 
   const color = "#00defe";
   const buttonColor = "#fff";
